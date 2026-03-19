@@ -6,6 +6,9 @@ A lightweight Python package by **Shashika Nuwan (DevNuwancat)** for adding cust
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/Version-0.1-orange)
 
+
+![NuwanColors](Colors_.png)
+
 ---
 
 ## 🚀 Installation
