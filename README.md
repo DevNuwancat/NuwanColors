@@ -8,6 +8,7 @@ A lightweight Python package by **Shashika Nuwan (DevNuwancat)** for adding cust
 
 
 ![NuwanColors](Colors_.png)
+![NuwanColors](screen_shot.jpeg)
 
 ---
 
